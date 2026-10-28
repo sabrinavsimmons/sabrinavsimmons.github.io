@@ -1,7 +1,3 @@
-# Sabrina Simmons
-
-**Computer Science, Information Security Concentration | Southern New Hampshire University**
-
 Welcome to my professional ePortfolio for CS 499: Computer Science Capstone. This portfolio
 showcases enhanced software artifacts in software design and engineering, algorithms and
 data structures, and databases, with a focus on secure design.
